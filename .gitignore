@@ -1,0 +1,16 @@
+.idea/
+local_settings.py
+
+venv
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+local settings.py
+db.sqlite3
+media
+
+**/migrations/**
+
+!**/migrations/__init__.py
